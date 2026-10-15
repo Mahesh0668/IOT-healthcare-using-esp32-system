@@ -6,8 +6,8 @@ Dual-core ESP32 healthcare monitoring system featuring real-time vitals tracking
 
 ## 🔗 Quick Project Links
 
-* **Live Wokwi Simulation:** [Open Wokwi Project](https://drive.google.com/drive/folders/1yqTnHKAW1-YDzRzdP_G5loX3BNBRxRWD?usp=drive_link))
-* **Demo Video (MP4 / Drive):** [Watch Video Demonstration](https://drive.google.com/drive/folders/1yqTnHKAW1-YDzRzdP_G5loX3BNBRxRWD?usp=sharing))
+* **Live Wokwi Simulation:** [Open Wokwi Project](https://drive.google.com/drive/folders/1yqTnHKAW1-YDzRzdP_G5loX3BNBRxRWD?usp=drive_link)
+* **Demo Video (MP4 / Drive):** [Watch Video Demonstration](https://drive.google.com/drive/folders/1yqTnHKAW1-YDzRzdP_G5loX3BNBRxRWD?usp=sharing)
 * **Medical Staff Dashboard:** [Open Adafruit IO Dashboard](https://io.adafruit.com/mahesh2006/dashboards/medical-staff-view-dashboard)
 * **Facility Management Dashboard:** [Open Adafruit IO Dashboard](https://io.adafruit.com/mahesh2006/dashboards/faculty-management-view-dashboard)
 * **Full Reports & Deliverables Folder:** [Open Google Drive Folder](https://drive.google.com/drive/folders/1yqTnHKAW1-YDzRzdP_G5loX3BNBRxRWD?usp=sharing)
